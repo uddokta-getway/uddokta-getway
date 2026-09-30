@@ -1,46 +1,81 @@
-# Hi there 👋
+<div align="center">
 
-🚀 **Full-Stack Developer & Web Systems Specialist**
+  <!-- Animated Typing Banner -->
+  <a href="https://uddoktagetway.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Welcome+to+Uddokta+Getway!;Automated+Payment+Gateway+Solution;Secure+%26+Instant+Settlement" alt="Typing SVG" />
+  </a>
 
-আমি মূলত ওয়েব অ্যাপ্লিকেশন, সার্ভার ইনফ্রাস্ট্রাকচার এবং অটোমেটেড পেমেন্ট সলিউশন ডেভেলপমেন্ট নিয়ে কাজ করি। বর্তমানে **Uddoktagetway.com**-এর মাধ্যমে নিরাপদ এবং দ্রুত অনলাইন পেমেন্ট ইন্টিগ্রেশন সলিউশন তৈরিতে ফোকাস করছি।
+  <p align="center">
+    <b>Empowering businesses with robust API integration & server automation solutions.</b>
+  </p>
 
----
+  <!-- Badges / Links -->
+  <a href="https://uddoktagetway.com">
+    <img src="https://img.shields.io/badge/Website-uddoktagetway.com-20C997?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:itderltd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itderltd%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**Languages & Frameworks:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Platforms, Hosting & Automation:**
-![WHMCS](https://img.shields.io/badge/WHMCS-F05023?style=for-the-badge&logo=whmcs&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### ⚡ Focus Areas & Projects
-
-- 💳 **[Uddoktagetway.com](https://uddoktagetway.com):** অটোমেটেড মার্চেন্ট পেমেন্ট গেটওয়ে সলিউশন এবং API ডেভেলপমেন্ট।
-- 🌐 **Hosting Automation:** WHMCS কাস্টম মডিউল, হুক্স এবং সার্ভার এডমিনিস্ট্রেশন।
-- ⚙️ **Backend Engineering:** সিকিউর RESTful API, ওয়েবহুকস (Webhooks) এবং পেমেন্ট গেটওয়ে ইন্টিগ্রেশন।
+<br />
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About The Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+আমরা **[Uddoktagetway.com](https://uddoktagetway.com)**-এর মাধ্যমে পেমেন্ট অটোমেশন ও সিকিউর গেটওয়ে সলিউশন প্রদান করে থাকি:
+
+- 💳 **Automated Merchant Gateway:** বিকাশ, রকেট, নগদসহ সব ধরনের MFS, কার্ড ও ব্যাংকিং পেমেন্ট অটোমেশন।
+- ⚙️ **Custom API Integration:** নিরাপদ RESTful API, কলব্যাক হ্যান্ডলার ও রিয়েল-টাইম ওয়েবহুকস (Webhooks) সিস্টেম।
+- 🌐 **Web Hosting & WHMCS Automation:** WHMCS মডিউল, কাস্টম হুকস এবং অপটিমাইজড সার্ভার ইনফ্রাস্ট্রাকচার।
 
 ---
 
-### 🌐 Project Link
+### 🛠️ Tech Stack & Technologies
 
-- 💳 Website: [uddoktagetway.com](https://uddoktagetway.com)
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" title="PHP"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> |
+| **Frameworks & UI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30" title="Laravel"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" title="HTML5"/> |
+| **Platforms & Hosting** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" title="Linux"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" title="Git"/> &nbsp; **WHMCS** &nbsp; **cPanel** |
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=uddokta-getway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddokta-getway&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddokta-getway&theme=tokyonight&hide_border=true&background=0D1117" width="97%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/uddokta-getway/uddokta-getway/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Powered by <b><a href="https://uddoktagetway.com">Uddokta Getway</a></b></sub>
+</div>
