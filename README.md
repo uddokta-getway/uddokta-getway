@@ -51,8 +51,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=uddokta-getway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddokta-getway&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uddokta-getway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="80%" alt="GitHub Stats" />
 
 </div>
 
@@ -66,11 +65,11 @@
 
 ---
 
-### 🐍 Contribution Graph Animation
+### 📈 Activity Graph
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/uddokta-getway/uddokta-getway/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uddokta-getway&theme=react-dark&hide_border=true&bg_color=0D1117" width="97%" alt="Activity Graph" />
 
 </div>
 
