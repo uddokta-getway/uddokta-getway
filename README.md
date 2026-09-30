@@ -56,8 +56,9 @@ We provide secure payment automation and gateway solutions through **[UddoktaGet
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uddokta-getway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddokta-getway&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uddokta-getway&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddokta-getway&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -65,7 +66,7 @@ We provide secure payment automation and gateway solutions through **[UddoktaGet
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uddokta-getway&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uddokta-getway&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
